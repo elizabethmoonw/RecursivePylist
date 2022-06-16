@@ -1,7 +1,7 @@
 # pylist_test.py
-# Prof. Lee, LJL2, Mar 2022
+# Prof. Lee (LJL2) and Elizabeth Moon (EM652)
 
-""" Test cases for A4. """
+""" Test cases """
 
 from pylist_classes import Song, Mix
 from pylist_classes import pprint_mix # In case you need to do some debugging prints.
