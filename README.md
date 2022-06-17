@@ -8,4 +8,3 @@ People can make p(la)ylists or mixes by selecting individual songs and/or by com
 3. If you want to check whether an item x is a Song or a Mix, we’d like you to transition from using type(x)== Song (ditto Mix) to the following expression instead:
 isinstance(x, Song)(ditto for Mix).
 
-###### Project for CS 1110, modified and extended...
