@@ -75,7 +75,7 @@ def basic_mixes(m):
 
     Duplicates in the returned list are OK.
 
-    Example: for the `weird` Mix in a4_test,
+    Example: for the `weird` Mix in pylist_test,
      * the "reachable" Mixes are:
        `weird` itself, `high`, `m_recs`, `th2`, `lcd`, `th`.
      * The Mixes that should be in the returned list are:
@@ -109,7 +109,7 @@ def mixes_with(s, mlist):
 
     Example:
      if `s` were a4_test.s_m (that is, the Song with title 'Mercy'),
-     and `mlist` were [a4_test.cs1110picks, a4_test.sad, a4_test.th],
+     and `mlist` were [pylist_test.cs1110picks, pylist_test.sad, pylist_test.th],
      then the output would be:
        ['CS1110 picks', "Gary's list", 'Sad songs']
 
