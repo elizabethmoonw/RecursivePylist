@@ -1,4 +1,4 @@
-# RecursivePylist 🎼🎵
+# RecursivePylist 🎼
 
 People can make p(la)ylists or mixes by selecting individual songs and/or by combining other mixes. That means we can think of mixes as recursive data structures! 
 
